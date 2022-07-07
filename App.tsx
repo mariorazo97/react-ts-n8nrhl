@@ -1,5 +1,5 @@
 import * as React from 'react';
-import './mathfactsStyle.css';
+import './Style.css';
 
 export default function App() {
   return (
